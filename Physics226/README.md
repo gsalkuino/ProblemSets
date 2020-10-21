@@ -1,1 +1,1 @@
-
+These are my worked problem sets for the course Physics 226: General Relativity II.  I took this course during my final semester as an undergrad in 2019.  The course was taught by Prof. Ian Vega and the main reference was Eric Poisson's *A Relativist's Toolkit*.
