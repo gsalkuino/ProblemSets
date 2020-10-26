@@ -1,1 +1,1 @@
-a
+These are my **incomplete** worked problem sets (and one exam) for the courses Physics 241/242: Quantum Mechanics I/II. This two-semester course is part of the graduate core.  However, due to COVID-19 the second semester was cut short and we did not cover much.  The course was taught by Prof. Francis Paraan and the main reference was Sakurai's Modern Quantum Mechanics, 2nd ed.
