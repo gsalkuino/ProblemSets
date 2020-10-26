@@ -1,1 +1,1 @@
-Incomplete
+These are my **incomplete** worked problem sets for the course Physics 221: Classical Mechanics. I took this course during my first semester as an M.S. student in 2019.  The course was taught by Prof. Ian Vega and the main references were Goldstein (2001), José and Saletan (1998) and Lemos (2018).
